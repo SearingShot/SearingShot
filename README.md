@@ -6,7 +6,7 @@
 
   🌟 Armed with a passion for innovation and an insatiable curiosity, I'm an Aspiring developer on a mission to merge the worlds of AI, machine learning, and web development.
   
-  <img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="370" />
+  <img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="360" />
   
   👨‍💻 Currently tinkering with Python, C/C++ And Javascript  <br>
   
