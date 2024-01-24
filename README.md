@@ -8,7 +8,7 @@
   
   <img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="360" />
   
-  👨‍💻 Currently tinkering with Python, C/C++ And Javascript  <br>
+  👨‍💻 Currently tinkering with Python, And Javascript  <br>
   
   📚 Learning and growing in Machine Learning, Artificial Intelligence and Web development  <br>
   
