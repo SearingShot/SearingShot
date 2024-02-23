@@ -1,5 +1,3 @@
-<!-- Replace 'YOUR_GIF_URL_HERE' with the URL of your GIF -->
-
   # Hi there, I'm Utsav Sharma! 👋
   Welcome to my Code Paradise! 🚀   
   
@@ -8,7 +6,9 @@
   
   <img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="360" />
   
-  👨‍💻 Currently tinkering with Python, And Javascript  <br>
+  👨‍💻 Currently tinkering with Flask, OpenCV and Neural Networks <br>
+
+  ❓  Ask me about anything related to Python and Machine Learning <br>
   
   📚 Learning and growing in Machine Learning, Artificial Intelligence and Web development  <br>
   
