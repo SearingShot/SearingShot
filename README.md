@@ -6,7 +6,7 @@
   
   <img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="360" />
   
-  👨‍💻 Currently tinkering with Flask, OpenCV and Neural Networks <br>
+  👨‍💻 Currently tinkering with Artificial Intelligence <br>
 
   ❓  Ask me about anything related to Python and Machine Learning <br>
   
