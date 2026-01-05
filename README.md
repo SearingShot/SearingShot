@@ -3,10 +3,11 @@
 
 <br/>
 
-<img align="right" alt="Coding GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430" height="330" />
+<img align="right" alt="Coding GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="190" />
 
 ### 👨‍💻 About Me
 - 🌱 Currently learning **Large Language Models (LLMs)** and **Scala**
+- 💬 Ask me about: **Python, Machine Learning, Data Science, AI Agents**
 - 📫 Reach me at **utsv27@gmail.com**
 - ⚡ Fun fact: **90% of coding is fixing the other 10%**
 
@@ -14,12 +15,13 @@
 
 ### 🤝 Connect With Me
 <p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/utsav-sharma27" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="30"/>
   </a>
-  &nbsp;&nbsp;
+&nbsp;&nbsp;
   <a href="https://www.instagram.com/ishu27sharma/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" height="30" width="30"/>
+    <img src="https://www.svgrepo.com/show/111199/instagram.svg" height="30" width="30"/>
   </a>
 </p>
 
@@ -71,18 +73,12 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=searingshot&show_icons=true&locale=en&layout=compact" />
-</p>
+<div align="center" style="display:flex; gap:10px;">
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=searingshot&show_icons=true&locale=en" />
-</p>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SearingShot&show_icons=true&theme=radical&layout=compact" />
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=searingshot" />
-</p>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=SearingShot&theme=radical&layout=compact" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=searingshot&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SearingShot&layout=compact&theme=radical" />
+
+</div>
