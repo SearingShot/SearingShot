@@ -7,7 +7,6 @@
 
 ### 👨‍💻 About Me
 - 🌱 Currently learning **Large Language Models (LLMs)** and **Scala**
-- 💡 Interested in **AI Agents, Backend Systems, and Intelligent Automation**
 - 📫 Reach me at **utsv27@gmail.com**
 - ⚡ Fun fact: **90% of coding is fixing the other 10%**
 
