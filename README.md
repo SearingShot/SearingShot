@@ -3,7 +3,7 @@
 
 <br/>
 
-<img align="right" alt="Coding GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="190" />
+<img align="right" alt="Coding GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="170" />
 
 ### 👨‍💻 About Me
 - 🌱 Currently learning **Large Language Models (LLMs)** and **Scala**
@@ -28,24 +28,24 @@
 ---
 
 ### 🧠 Skills
-**Programming Languages**
-- Python, Scala, JavaScript, C, C++
+- **Programming Languages**
+  - Python, Scala, JavaScript, C, C++
 
-**Backend & Web**
-- Django, Flask, REST APIs, React
+- **Web Development**
+  - Django, Flask, REST APIs, React
 
-**Databases**
-- PostgreSQL, MongoDB, MySQL
+- **Databases**
+  - PostgreSQL, MongoDB, MySQL
 
-**AI / ML**
-- Machine Learning, Deep Learning  
-- PyTorch, TensorFlow, Scikit-learn  
-- Pandas, NumPy, Seaborn  
-- OpenCV
+- **AI / ML**
+  - Machine Learning, Deep Learning  
+  - PyTorch, TensorFlow, Scikit-learn  
+  - Pandas, NumPy, Seaborn  
+  - OpenCV
 
-**Tools & Platforms**
-- Git, GitHub, Heroku  
-- Linux, Jupyter Notebook
+- **Tools & Platforms**
+  - Git, GitHub, Heroku  
+  - Linux, Jupyter Notebook
 
 ---
 
