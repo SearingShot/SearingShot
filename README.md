@@ -32,7 +32,7 @@
   - Python, Scala, JavaScript, C, C++
 
 - **Web Development**
-  - Django, Flask, REST APIs, React
+  - Django, Flask, REST APIs, React, HTML, CSS
 
 - **Databases**
   - PostgreSQL, MongoDB, MySQL
